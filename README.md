@@ -5,4 +5,5 @@ I'm trying to use this repository to add my current notes and study flow to gith
 ### Mathematics for Deep Learning
 - Source: https://medium.com/@hevansviniciuspereira
 - Index:
-	- [Part 2](./mathematics_for_deep_learning/pt_2 _types_of_neurons.md)
+	- [Part 2](mathematics_for_deep_learning/pt_2_types_of_neurons.md)
+	- [Part 3](mathematics_for_deep_learning/pt_3_initialization_activation_and_modification.md)

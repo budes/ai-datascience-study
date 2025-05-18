@@ -21,11 +21,11 @@
 - Can be represented also as $(f * g)(x) = \sum ^{+\infty} _{t = -\infty} f(t)g(t - x)$
 - Basically speaking you're applying the image
 ### One dimensional convolutions
-![One dimensional Convolution Example](pt_5_one_dimensional_convolution_example.png)
+![One dimensional Convolution Example](Images/pt_5_one_dimensional_convolution_example.png)
 - What you're doing is applying $g$ onto $f$ continuously, calculating the values for every iteration and that's the result of the convolution
 ### Two dimensional convolutions
 ![Step of the process of doing the same thing](/mathematics_for_deep_learning/Images/pt_5_step_one_convolution_two_dimensional.png)
-![Calculation of step one](mathematics_for_deep_learning/Images/pt_5_step_one_convolution_two_dimensional_calculation.png)
+![Calculation of step one](/mathematics_for_deep_learning/Images/pt_5_step_one_convolution_two_dimensional_calculation.png)
 Repeating the same process, applying $g$ on $f$, multiplying all elements of $g$ by a fitting number of elements on $f$
 
 ### Summarizing convolution

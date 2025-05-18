@@ -1,7 +1,7 @@
 - Dependency on the previous data to process present data
 - Maintain the same parameters along the process
 - Can escalate to many sizes
-- The schema of a recurrent neural network in the simplest terms ![Recurrent Neural Network scheme](mathematics_for_deep_learning/Images/pt_6_recurrent_neural_network_simple_scheme.png)
+- The schema of a recurrent neural network in the simplest terms ![Recurrent Neural Network scheme](/mathematics_for_deep_learning/Images/pt_6_recurrent_neural_network_simple_scheme.png)
 - For each step $t$
 	- Activation function $a$: $a^{<t>} = g_1(W_{aa}a^{<t-1>} + W_{ax}x^{<t>} + b_a)$
 	- Output $y$: $y^{<t>} = g_2(W_{ya}a^{<t-1>} + b_y)$
@@ -12,9 +12,9 @@
 		- $b_a$ -> Are the biases
 		- $g_1, g_2$ -> Activation function
 	
-- Can be represented with an loop ![Visualization of the loop](mathematics_for_deep_learning/Images/pt_6_rnn_loop.png)
+- Can be represented with an loop ![Visualization of the loop](/mathematics_for_deep_learning/Images/pt_6_rnn_loop.png)
 	- Reason why parameters can stay the same
 	- Generalize randomly sized sequences
-- Can be dependent both on past and future data -> **Bidirectional RNN**, like the example: ![](mathematics_for_deep_learning/Images/pt_6_bidirectional_rnn_relying_on_future_and_starter_data.png)
+- Can be dependent both on past and future data -> **Bidirectional RNN**, like the example: ![Scheme for multiple directions RNN](/mathematics_for_deep_learning/Images/pt_6_bidirectional_rnn_relying_on_future_and_starter_data.png)
 	- Two equations passing the information in both orientations
 - **LONG-SHORT TERM MEMORY (LSTM)**

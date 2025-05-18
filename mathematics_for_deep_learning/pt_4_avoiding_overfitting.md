@@ -25,7 +25,7 @@ Problems and challenges with neural networks
 ## Early Stopping
 - Stop in the point of minimum error at test data
 - Train data having smaller and smaller errors is possible, but you need to find the point when the error in the test data starts to rise instead of reducing
-- ![mathematics_for_deep_learning](pt_4_train_vs_test_data_sweet_spot.png)
+- ![mathematics_for_deep_learning](Images/pt_4_train_vs_test_data_sweet_spot.png)
 
 ## Dataset Augmentation
 - Modifying current train data in order to add more variables

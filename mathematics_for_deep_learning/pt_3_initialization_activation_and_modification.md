@@ -48,7 +48,7 @@ $f(x) = \frac{e^{x_i}}{\sum^{n}_{k=1}{e^{x_k}}}$
 - Generally used on the output layer -> Predicting the probability of the output being one of the classes
 
 ### ReLU
-$f(x) = max(0, x) = \{^{0, \ if \ x \ < 0}_{x, \ if \ x \geq 0}$
+$`f(x) = max(0, x) = \{^{0, \ if \ x \ < 0}_{x, \ if \ x \geq 0}`$
 - Efficiency
 - Do not show negative values
 

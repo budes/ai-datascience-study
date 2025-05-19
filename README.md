@@ -11,8 +11,13 @@ I'm trying to use this repository to add my current notes and study flow to gith
 	- [Part 5](mathematics_for_deep_learning/pt_5_convolution_neural_network_and_pooling.md)
 	- [Part 6](mathematics_for_deep_learning/pt_6_recurrent_neural_network.md)
 
+### Math
+- For the additional math i learn along the way
+- 
 ### Tensorflow
 - Source: https://www.tensorflow.org/guide
 	- 
 - Index:
+	- [Basics](tensorflow/basics.md)
 	- [Tensors](tensorflow/tf.tensors.md)
+	- 

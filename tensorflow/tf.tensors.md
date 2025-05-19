@@ -49,3 +49,7 @@ rank_3_tensor = tf.constant([
 			- Equivalent to: `my_tensor[1:3][2]`, `my_tensor[1:3][2:4]`
 		- It can work for any dimension tensor, as long as they have the amount of dimensions you're indexing
 
+## Operations
+- Math operations used for machine learning are implemented in tensors
+	- +, -, \*, @
+	- `tf.concat()`, [`tf.reduce_sum()`](/tensorflow/tf.reduce_sum.md) 

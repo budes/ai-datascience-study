@@ -3,7 +3,7 @@ I'm trying to use this repository to add my current notes and study flow to gith
 
 ## Sources
 ### Mathematics for Deep Learning
-- Source: https://medium.com/@hevansviniciuspereira
+- [Source](https://medium.com/@hevansviniciuspereira)
 - Index:
 	- [Part 2](mathematics_for_deep_learning/pt_2_types_of_neurons.md)
 	- [Part 3](mathematics_for_deep_learning/pt_3_initialization_activation_and_modification.md)
@@ -13,11 +13,14 @@ I'm trying to use this repository to add my current notes and study flow to gith
 
 ### Math
 - For the additional math i learn along the way
-- 
 ### Tensorflow
-- Source: https://www.tensorflow.org/guide
-	- 
+- [Source](https://www.tensorflow.org/guide)
 - Index:
-	- [Basics](tensorflow/basics.md)
 	- [Tensors](tensorflow/tf.tensors.md)
-	- 
+
+### Google
+- [Source](https://developers.google.com/machine-learning)
+- Foundational courses:
+	- Introduction to Machine Learning ([Source](https://developers.google.com/machine-learning/intro-to-ml))
+		- [What is Machine Learning](/google/intro-to-ml/what_is_machine_learning.md)
+		- 

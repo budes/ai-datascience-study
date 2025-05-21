@@ -23,4 +23,9 @@ I'm trying to use this repository to add my current notes and study flow to gith
 - Foundational courses:
 	- Introduction to Machine Learning ([Source](https://developers.google.com/machine-learning/intro-to-ml))
 		- [What is Machine Learning](/google/intro-to-ml/what_is_machine_learning.md)
-		- 
+		- Machine Learning Crash Course
+			1. Linear Regression
+				- [Linear Regression](/google/ml_crash_course/linear_regression.md)
+				- [Loss](google/ml_crash_course/loss.md) 
+				- [Gradient Descent](/google/ml_crash_course/gradient_descent.md)
+				- 

@@ -25,7 +25,9 @@ I'm trying to use this repository to add my current notes and study flow to gith
 		- [What is Machine Learning](/google/intro-to-ml/what_is_machine_learning.md)
 		- Machine Learning Crash Course
 			1. Linear Regression
-				- [Linear Regression](/google/ml_crash_course/linear_regression.md)
-				- [Loss](google/ml_crash_course/loss.md) 
-				- [Gradient Descent](/google/ml_crash_course/gradient_descent.md)
+				- [Linear Regression](/google/ml_crash_course/linear_regression/linear_regression.md)
+				- [Loss](/google/ml_crash_course/linear_regression/loss.md) 
+				- [Gradient Descent](/google/ml_crash_course/linear_regression/gradient_descent.md)
+				- [Hyperparameters](/google/ml_crash_course/linear_regression/hyperparameters.md)
+				- [*Exercise Notes*](/google/ml_crash_course/linear_regression/exercise_linear_regression.md)
 				- 

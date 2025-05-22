@@ -11,7 +11,7 @@ It can be extended to more and more features, by adding those features values an
 $y' = b + w_1 x_1 + w_2 x_2 + ... + w_n x_n$ on the analysis of $n$ features.
 
 Can be used to estimate the weights of a network by the pattern observed.
-![chart example](/google/ml_crash_course/Images/linear_regression_chart.png)
+![chart example](./Images/linear_regression_chart.png)
 
 Our **label** ($y'$) would be miles per gallon, as $b$ is independent from x, we can find it by estimating the 0 of the function, as we can observe, it is 30 on the 0.
 So: $y' = 30 + w_1x_1$

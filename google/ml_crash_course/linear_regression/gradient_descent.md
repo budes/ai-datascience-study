@@ -4,11 +4,8 @@ The process of updating the weights and bias in order to get a better prediction
 The model begins training with randomized weights and biases near zero, and then repeats the following steps:
 
 1. Calculate the loss with the current weight and bias.
-    
 2. Determine the direction to move the weights and bias that reduce loss.
-    
 3. Move the weight and bias values a small amount in the direction that reduces loss.
-    
 4. Return to step one and repeat the process until the model can't reduce the loss any further.
 "
 

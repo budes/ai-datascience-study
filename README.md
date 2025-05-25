@@ -30,4 +30,6 @@ I'm trying to use this repository to add my current notes and study flow to gith
 				- [Gradient Descent](/google/ml_crash_course/linear_regression/gradient_descent.md)
 				- [Hyperparameters](/google/ml_crash_course/linear_regression/hyperparameters.md)
 				- [*Exercise Notes*](/google/ml_crash_course/linear_regression/exercise_linear_regression.md)
-				- 
+			2. Logistic Regression
+				- [Calculating a probability](/google/ml_crash_course/logistic_regression/calculating_a_probability.md)
+				- [Loss and regularization](/google/ml_crash_course/logistic_regression/loss_and_regularization.md)

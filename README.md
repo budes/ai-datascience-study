@@ -32,3 +32,9 @@ I'm trying to use this repository to add my current notes and study flow to gith
 
 ### Coding notes
 - [Activation Functions](/coding_notes/types_of_activations.md)
+- [Useful Libraries and Modules](/coding_notes/useful_libs_and_modules.md)
+
+
+### Analyzing EDA's
+- [jorgeluizfigueira/indicium-lighthouse](/analyzing_edas/jorgeluizfigueira_indicium-lighthouse.md)
+- 
